@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+<head>
+<meta name="WileySD_cssBasics" content="0" />
+<meta name="dtb:uid" content="xxx" />
+<meta name="dtb:depth" content="2" />
+<meta name="dtb:totalPageCount" content="5" />
+<meta name="dtb:maxPageNumber" content="5" /></head>
+<docTitle><text>Newzel</text></docTitle>
+<docAuthor><text>Mr. P. Vigensh</text></docAuthor>
+<navMap>
+<navPoint id="navpoint-1" playOrder="1"><navLabel><text>Cover</text></navLabel><content src="html/cover.xhtml" /></navPoint>
+<navPoint id="navpoint-2" playOrder="2"><navLabel><text>Page002003</text></navLabel><content src="html/page002003.xhtml" /></navPoint>
+<navPoint id="navpoint-3" playOrder="3"><navLabel><text>Page004005</text></navLabel><content src="html/page004005.xhtml" /></navPoint>
+</navMap>
+</ncx>

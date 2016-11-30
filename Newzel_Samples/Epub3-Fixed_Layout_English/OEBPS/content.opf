@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="isbnxxx" xml:lang="en" prefix="rendition: http://www.idpf.org/vocab/rendition/#">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <meta property="dcterms:modified">2015-09-25T01:05:00Z</meta>        
+        <dc:title>Newzel</dc:title>
+        <dc:identifier id="isbnxxx">xxx</dc:identifier>
+        <dc:creator>Mr. P. Vignesh</dc:creator>
+        <dc:publisher>Newzel Publishing Private Limited</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta name="cover" content="my_cover_image"/>
+	<meta property="rendition:layout">pre-paginated</meta>
+	<meta property="rendition:orientation">auto</meta>
+        <meta name="original-resolution" content="576x882"/>
+        <meta name="book-type" content="children"/>
+    </metadata>
+
+    <manifest>
+        <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+<item id="my_cover_image" href="images/cover.jpg" media-type="image/jpeg"/>
+<item id="page002" href="images/page002.jpg" media-type="image/jpeg"/>
+<item id="page003" href="images/page003.jpg" media-type="image/jpeg"/>
+<item id="page004" href="images/page004.jpg" media-type="image/jpeg"/>
+<item id="page005" href="images/page005.jpg" media-type="image/jpeg"/>
+        
+        <item id="font001" href="fonts/Chronicletextg1-italic.otf" media-type="application/vnd.ms-opentype" />
+        <item id="font002" href="fonts/Chronicletextg1-roman.otf" media-type="application/vnd.ms-opentype" />
+        <item id="font003" href="fonts/Chronicletextg1-semiitalic.otf" media-type="application/vnd.ms-opentype" />
+        <item id="font004" href="fonts/Gotham-Book.ttf" media-type="application/vnd.ms-opentype" />
+        <item id="font005" href="fonts/Gotham-Medium.ttf" media-type="application/vnd.ms-opentype" />
+        <item id="font006" href="fonts/Helvetica.otf" media-type="application/vnd.ms-opentype" />
+
+
+      <item id="template.css" href="css/template.css" media-type="text/css"/>
+<item id="css_page002" href="css/css_page002.css" media-type="text/css"/>
+<item id="css_page003" href="css/css_page003.css" media-type="text/css"/>
+<item id="css_page004" href="css/css_page004.css" media-type="text/css"/>
+<item id="css_page005" href="css/css_page005.css" media-type="text/css"/>
+
+<item id="navigation.xhtml" properties="nav" href="html/navigation.xhtml" media-type="application/xhtml+xml"/>
+<item id="cover.xhtml" href="html/cover.xhtml" media-type="application/xhtml+xml"/>
+<item id="page002.xhtml" href="html/page002.xhtml" media-type="application/xhtml+xml"/>
+<item id="page003.xhtml" href="html/page003.xhtml" media-type="application/xhtml+xml"/>
+<item id="page004.xhtml" href="html/page004.xhtml" media-type="application/xhtml+xml"/>
+<item id="page005.xhtml" href="html/page005.xhtml" media-type="application/xhtml+xml"/>
+    </manifest>
+    <spine toc="ncx">
+<itemref idref="cover.xhtml"/>
+<itemref idref="page002.xhtml"/>
+<itemref idref="page003.xhtml"/>
+<itemref idref="page004.xhtml"/>
+<itemref idref="page005.xhtml"/>
+
+    </spine>
+    <guide>
+        <reference type="cover" title="Cover" href="html/cover.xhtml"/>
+        <reference type="text" title="Main Content" href="html/cover.xhtml"/>
+    </guide>
+</package>

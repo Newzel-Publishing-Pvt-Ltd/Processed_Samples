@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="bookid">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<dc:title>Newzel</dc:title>
+<dc:creator opf:role="aut">Mr. P. Vignesh</dc:creator>
+<dc:date>2016</dc:date>
+<dc:identifier id="bookid">xxx</dc:identifier>
+<dc:format>20 pages</dc:format>
+<dc:type>Text</dc:type>
+<dc:language>en</dc:language>
+<dc:rights>All Rights Reserved</dc:rights>
+<dc:publisher>Newzel Publishing Private Limited</dc:publisher>
+<meta name="cover" content="cover-image"/>
+</metadata>
+<manifest>
+<!-- NCX -->
+<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+<!-- CSS Style Sheets -->
+<item id="stylesheet" href="css/stylesheet.css" media-type="text/css"/>
+<!-- Images -->
+<item id="cover-image" href="Images/cover.jpg" media-type="image/jpeg"/>
+<item id="image_1" href="Images/line.jpg" media-type="image/jpeg"/>
+
+<!-- Content Documents -->
+<item id="Cover" href="Cover.html" media-type="application/xhtml+xml" />
+<item id="Chapter_1" href="07_chapter4.html" media-type="application/xhtml+xml" />
+<item id="Chapter_2" href="10_chapter7.html" media-type="application/xhtml+xml" />
+<item id="Chapter_3" href="11_chapter8.html" media-type="application/xhtml+xml" />
+</manifest>
+
+<spine toc="ncx">
+<itemref idref="Cover" linear="yes"/>
+<itemref idref="Chapter_1" linear="yes"/>
+<itemref idref="Chapter_2" linear="yes"/>
+<itemref idref="Chapter_3" linear="yes"/>
+</spine>
+<guide>
+<reference type="Cover" title="Cover Page" href="Cover.html"/>
+</guide>
+</package>

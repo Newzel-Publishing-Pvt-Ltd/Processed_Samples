@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="pxxx">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<dc:title>Newzel</dc:title>
+	<dc:creator>Mr. P. Vignesh</dc:creator>
+	<dc:source>URN:ISBN:xxx</dc:source>
+	<dc:identifier id="pxxx">URN:ISBN:xxx</dc:identifier>
+	<dc:language>it</dc:language>
+	<dc:type>Text</dc:type>
+	<dc:format>25 pages</dc:format>
+	<dc:rights>All rights reserved</dc:rights>
+<meta name="cover" content="cover-image"/>
+<meta name="fixed-layout" content="true"/>
+<meta name="orientation-lock" content="landscape"/>
+<meta name="original-resolution" content="1024x600"/>
+<meta name="book-type" content="children"/>
+<meta name="RegionMagnification" content="true"/>
+</metadata>
+<manifest>
+<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+<item id="css" href="styles/style.css" media-type="text/css"/>
+
+<item id="font1" href="fonts/helvtc.ttf" media-type="application/x-font-otf"/>
+<item id="font2" href="fonts/JOINTBYPIZZADUDE.ttf" media-type="application/x-font-otf"/>
+<item id="font3" href="fonts/Utopia-Italic.ttf" media-type="application/x-font-otf"/>
+<item id="font4" href="fonts/UtopiaRegular.ttf" media-type="application/x-font-otf"/>
+<item id="font5" href="fonts/Utopia-Regular.otf" media-type="application/x-font-otf"/>
+
+
+<item id="cover" href="xhtml/cover.html" media-type="application/xhtml+xml"/>
+<item id="apage2" href="xhtml/page01-02.html" media-type="application/xhtml+xml"/>
+<item id="apage3" href="xhtml/page03-04.html" media-type="application/xhtml+xml"/>
+<item id="apage4" href="xhtml/page05-06.html" media-type="application/xhtml+xml"/>
+<item id="apage5" href="xhtml/page07-08.html" media-type="application/xhtml+xml"/>
+<item id="apage6" href="xhtml/page09-10.html" media-type="application/xhtml+xml"/>
+<item id="apage7" href="xhtml/page11-12.html" media-type="application/xhtml+xml"/>
+<item id="apage8" href="xhtml/page13-14.html" media-type="application/xhtml+xml"/>
+<item id="apage9" href="xhtml/page15-16.html" media-type="application/xhtml+xml"/>
+<item id="apage10" href="xhtml/page17-18.html" media-type="application/xhtml+xml"/>
+<item id="apage11" href="xhtml/page19-20.html" media-type="application/xhtml+xml"/>
+<item id="apage12" href="xhtml/page21-22.html" media-type="application/xhtml+xml"/>
+
+<item id="cover-image" href="images/cover.png" media-type="image/png"/>
+<item id="tf001" href="images/f001.png" media-type="image/png"/>
+<item id="tf002" href="images/f002.png" media-type="image/png"/>
+<item id="tf003" href="images/f003.png" media-type="image/png"/>
+<item id="tf004" href="images/f004.png" media-type="image/png"/>
+<item id="tf005" href="images/f005.png" media-type="image/png"/>
+<item id="tf006" href="images/f006.png" media-type="image/png"/>
+<item id="tf007" href="images/f007.png" media-type="image/png"/>
+<item id="tf008" href="images/f008.png" media-type="image/png"/>
+<item id="tf009" href="images/f009.png" media-type="image/png"/>
+<item id="f010" href="images/f010.png" media-type="image/png"/>
+<item id="f011" href="images/f011.png" media-type="image/png"/>
+<item id="f012" href="images/f012.png" media-type="image/png"/>
+<item id="f013" href="images/f013.png" media-type="image/png"/>
+<item id="f014" href="images/f014.png" media-type="image/png"/>
+<item id="f015" href="images/f015.png" media-type="image/png"/>
+<item id="f016" href="images/f016.png" media-type="image/png"/>
+<item id="f017" href="images/f017.png" media-type="image/png"/>
+<item id="f018" href="images/f018.png" media-type="image/png"/>
+<item id="f019" href="images/f019.png" media-type="image/png"/>
+<item id="f020" href="images/f020.png" media-type="image/png"/>
+<item id="f021" href="images/f021.png" media-type="image/png"/>
+<item id="f022" href="images/f022.png" media-type="image/png"/>
+
+</manifest>
+<spine toc="ncx">
+<itemref idref="cover"/>
+<itemref idref="apage2"/>
+<itemref idref="apage3"/>
+<itemref idref="apage4"/>
+<itemref idref="apage5"/>
+<itemref idref="apage6"/>
+<itemref idref="apage7"/>
+<itemref idref="apage8"/>
+<itemref idref="apage9"/>
+<itemref idref="apage10"/>
+<itemref idref="apage11"/>
+<itemref idref="apage12"/>
+
+</spine>
+
+<guide>
+<reference type="cover" title="Cover Page" href="xhtml/cover.html"/>
+</guide>
+</package>

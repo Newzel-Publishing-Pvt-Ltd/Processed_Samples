@@ -1,0 +1,47 @@
+@font-face { font-family: "Agenda__Bold"; font-style: normal; font-weight:normal; src: url('../fonts/Agenda__Bold.otf'); }
+@font-face { font-family: "Agenda__Medium"; font-style: normal; font-weight: normal; src: url('../fonts/Agenda__Medium.otf'); }
+@font-face { font-family: "AvantGarde_Bold"; font-style: normal; font-weight:normal; src: url('../fonts/AvantGarde_Bold.otf'); }
+@font-face { font-family: "badgerextrabold"; font-style: normal; font-weight:normal; src: url('../fonts/badgerextrabold.otf'); }
+@font-face { font-family: "Bauer-Bodoni-Std-Italic"; font-style: normal; font-weight:normal; src: url('../fonts/Bauer-Bodoni-Std-Italic.otf'); }
+@font-face { font-family: "BEC-Bold"; font-style: normal; font-weight:normal; src: url('../fonts/BEC-Bold.otf'); }
+@font-face { font-family: "BEC-Regular"; font-style: normal; font-weight:normal; src: url('../fonts/BEC-Regular.otf'); }
+@font-face { font-family: "BECAG__Bold"; font-style: normal; font-weight:normal; src: url('../fonts/BECAG__Bold.otf'); }
+@font-face { font-family: "BECAG__Heavy"; font-style: normal; font-weight:normal; src: url('../fonts/BECAG__Heavy.otf'); }
+@font-face { font-family: "Formata-Condensed"; font-style: normal; font-weight:normal; src: url('../fonts/Formata-Condensed.otf'); }
+@font-face { font-family: "Formata-Medium"; font-style: normal; font-weight:normal; src: url('../fonts/Formata-Medium.otf'); }
+@font-face { font-family: "Formata-MediumCondensed"; font-style: normal; font-weight:normal; src: url('../fonts/Formata-MediumCondensed.otf'); }
+@font-face { font-family: "HelveticaNeue-BlackCond"; font-style: normal; font-weight:normal; src: url('../fonts/HelveticaNeue-BlackCond.otf'); }
+@font-face { font-family: "Marcato-Normal"; font-style: normal; font-weight:normal; src: url('../fonts/Marcato-Normal.otf'); }
+@font-face { font-family: "MyriadPro-Regular"; font-style: normal; font-weight:normal; src: url('../fonts/MyriadPro-Regular.otf'); }
+@font-face { font-family: "SFLemonadeBold-Science"; font-style: normal; font-weight:normal; src: url('../fonts/SFLemonadeBold-Science.otf'); }
+@font-face { font-family: "verdana"; font-style: normal; font-weight:normal; src: url('../fonts/verdana.otf'); }
+@font-face { font-family: "verdanab"; font-style: normal; font-weight:normal; src: url('../fonts/verdanab.otf'); }
+body {
+width:612px;height:792px;
+position:absolute;
+top:0px;
+left:0px;
+}
+img {
+width:612px;height:792px;
+position:absolute;
+top:0px;
+left:0px;
+z-index:0;
+}
+.frontcover p.temppara {
+display:none;
+}
+* {
+margin:0px;
+font-weight:normal;
+}
+
+a
+{
+text-decoration: none;
+color: inherit;
+}
+
+.para b{font-family: "BECAG__Bold";}
+

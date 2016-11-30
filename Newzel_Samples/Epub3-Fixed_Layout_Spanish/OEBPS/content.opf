@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="isbnxxx" xml:lang="en" prefix="rendition: http://www.idpf.org/vocab/rendition/#">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <meta property="dcterms:modified">2015-09-25T01:05:00Z</meta>        
+        <dc:title>Newzel</dc:title>
+        <dc:identifier id="isbnxxx">xxx</dc:identifier>
+        <dc:creator>Mr. P. Vignesh</dc:creator>
+        <dc:publisher>Newzel Publishing Private Limited</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta name="cover" content="my_cover_image"/>
+<meta property="rendition:layout">pre-paginated</meta>
+<meta property="rendition:orientation">auto</meta>
+<meta property="rendition:spread">none</meta>
+        <meta name="original-resolution" content="1224x792"/>
+        <meta name="book-type" content="children"/>
+    </metadata>
+
+    <manifest>
+        <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+<item id="my_cover_image" href="images/cover.jpg" media-type="image/jpeg"/>
+<item id="page002" href="images/page002.jpg" media-type="image/jpeg"/>
+<item id="page003" href="images/page003.jpg" media-type="image/jpeg"/>
+<item id="page004" href="images/page004.jpg" media-type="image/jpeg"/>
+<item id="page005" href="images/page005.jpg" media-type="image/jpeg"/>
+        
+<item id="font-1" href="fonts/Agenda__Bold.otf" media-type="application/vnd.ms-opentype" />
+<item id="font-2" href="fonts/Agenda__Medium.otf" media-type="application/vnd.ms-opentype" />
+<item id="font-3" href="fonts/AvantGarde_Bold.otf" media-type="application/vnd.ms-opentype" />
+<item id="font-4" href="fonts/badgerextrabold.otf" media-type="application/vnd.ms-opentype" />
+<item id="font-5" href="fonts/Bauer-Bodoni-Std-Italic.otf" media-type="application/vnd.ms-opentype" />
+<item id="font-6" href="fonts/BEC-Bold.otf" media-type="application/vnd.ms-opentype" />
+<item id="font-7" href="fonts/BEC-Regular.otf" media-type="application/vnd.ms-opentype" />
+<item id="font-8" href="fonts/BECAG__Bold.otf" media-type="application/vnd.ms-opentype" />
+<item id="font-9" href="fonts/BECAG__Heavy.otf" media-type="application/vnd.ms-opentype" />
+<item id="font-10" href="fonts/Formata-Condensed.otf" media-type="application/vnd.ms-opentype" />
+<item id="font-11" href="fonts/Formata-Medium.otf" media-type="application/vnd.ms-opentype" />
+<item id="font-12" href="fonts/Formata-MediumCondensed.otf" media-type="application/vnd.ms-opentype" />
+<item id="font-13" href="fonts/HelveticaNeue-BlackCond.otf" media-type="application/vnd.ms-opentype" />
+<item id="font-14" href="fonts/Marcato-Normal.otf" media-type="application/vnd.ms-opentype" />
+<item id="font-15" href="fonts/MyriadPro-Regular.otf" media-type="application/vnd.ms-opentype" />
+<item id="font-16" href="fonts/SFLemonadeBold-Science.otf" media-type="application/vnd.ms-opentype" />
+<item id="font-17" href="fonts/verdana.otf" media-type="application/vnd.ms-opentype" />
+<item id="font-18" href="fonts/verdanab.otf" media-type="application/vnd.ms-opentype" />
+
+<item id="template.css" href="css/template.css" media-type="text/css"/>
+<item id="css_cover" href="css/css_cover.css" media-type="text/css"/>
+<item id="css_page002_003" href="css/css_page002_003.css" media-type="text/css"/>
+<item id="css_page004_005" href="css/css_page004_005.css" media-type="text/css"/>
+
+<item id="navigation.xhtml" properties="nav" href="navigation.xhtml" media-type="application/xhtml+xml"/>
+<item id="cover.xhtml" href="html/cover.xhtml" media-type="application/xhtml+xml"/>
+<item id="page002003.xhtml" href="html/page002003.xhtml" media-type="application/xhtml+xml"/>
+<item id="page004005.xhtml" href="html/page004005.xhtml" media-type="application/xhtml+xml"/>
+    </manifest>
+    <spine toc="ncx">
+<itemref idref="cover.xhtml"/>
+<itemref idref="page002003.xhtml"/>
+<itemref idref="page004005.xhtml"/>
+    </spine>
+    <guide>
+        <reference type="cover" title="Cover" href="html/cover.xhtml"/>
+        <reference type="text" title="Main Content" href="html/cover.xhtml"/>
+    </guide>
+</package>

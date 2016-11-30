@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<smil xmlns="http://www.w3.org/ns/SMIL" version="3.0"> 
+ <body>
+  <par> 
+   <text src="../html/page09.xhtml#word1" /> 
+   <audio src="../audio/page8-9.mp3" clipBegin="10156ms" clipEnd="10332ms"></audio> 
+  </par>
+  <par> 
+   <text src="../html/page09.xhtml#word2" /> 
+   <audio src="../audio/page8-9.mp3" clipBegin="10332ms" clipEnd="10411ms"></audio> 
+  </par>
+  <par> 
+   <text src="../html/page09.xhtml#word3" /> 
+   <audio src="../audio/page8-9.mp3" clipBegin="10411ms" clipEnd="10629ms"></audio> 
+  </par>
+  <par> 
+   <text src="../html/page09.xhtml#word4" /> 
+   <audio src="../audio/page8-9.mp3" clipBegin="10629ms" clipEnd="10751ms"></audio> 
+  </par>
+  <par> 
+   <text src="../html/page09.xhtml#word5" /> 
+   <audio src="../audio/page8-9.mp3" clipBegin="10751ms" clipEnd="10849ms"></audio> 
+  </par>
+  <par> 
+   <text src="../html/page09.xhtml#word6" /> 
+   <audio src="../audio/page8-9.mp3" clipBegin="10849ms" clipEnd="11470ms"></audio> 
+  </par>
+  <par> 
+   <text src="../html/page09.xhtml#word7" /> 
+   <audio src="../audio/page8-9.mp3" clipBegin="11470ms" clipEnd="11808ms"></audio> 
+  </par>
+  <par> 
+   <text src="../html/page09.xhtml#word8" /> 
+   <audio src="../audio/page8-9.mp3" clipBegin="11808ms" clipEnd="11994ms"></audio> 
+  </par>
+  <par> 
+   <text src="../html/page09.xhtml#word9" /> 
+   <audio src="../audio/page8-9.mp3" clipBegin="11994ms" clipEnd="12266ms"></audio> 
+  </par>
+  <par> 
+   <text src="../html/page09.xhtml#word10" /> 
+   <audio src="../audio/page8-9.mp3" clipBegin="12266ms" clipEnd="13217ms"></audio> 
+  </par>
+  <par> 
+   <text src="../html/page09.xhtml#word11" /> 
+   <audio src="../audio/page8-9.mp3" clipBegin="13217ms" clipEnd="13437ms"></audio> 
+  </par>
+  <par> 
+   <text src="../html/page09.xhtml#word12" /> 
+   <audio src="../audio/page8-9.mp3" clipBegin="13437ms" clipEnd="13672ms"></audio> 
+  </par>
+  <par> 
+   <text src="../html/page09.xhtml#word13" /> 
+   <audio src="../audio/page8-9.mp3" clipBegin="13672ms" clipEnd="14788ms"></audio> 
+  </par>
+  <par> 
+   <text src="../html/page09.xhtml#word14" /> 
+   <audio src="../audio/page8-9.mp3" clipBegin="14788ms" clipEnd="15601ms"></audio> 
+  </par>
+  <par> 
+   <text src="../html/page09.xhtml#word15" /> 
+   <audio src="../audio/page8-9.mp3" clipBegin="15601ms" clipEnd="15789ms"></audio> 
+  </par>
+  <par> 
+   <text src="../html/page09.xhtml#word16" /> 
+   <audio src="../audio/page8-9.mp3" clipBegin="15789ms" clipEnd="16851ms"></audio> 
+  </par>
+  <par> 
+   <text src="../html/page09.xhtml#word17" /> 
+   <audio src="../audio/page8-9.mp3" clipBegin="16851ms" clipEnd="17164ms"></audio> 
+  </par>
+  <par> 
+   <text src="../html/page09.xhtml#word18" /> 
+   <audio src="../audio/page8-9.mp3" clipBegin="17164ms" clipEnd="17864ms"></audio> 
+  </par>
+  <par> 
+   <text src="../html/page09.xhtml#word19" /> 
+   <audio src="../audio/page8-9.mp3" clipBegin="17864ms" clipEnd="17971ms"></audio> 
+  </par>
+  <par> 
+   <text src="../html/page09.xhtml#word20" /> 
+   <audio src="../audio/page8-9.mp3" clipBegin="17971ms" clipEnd="18468ms"></audio> 
+  </par>
+</body>
+</smil>

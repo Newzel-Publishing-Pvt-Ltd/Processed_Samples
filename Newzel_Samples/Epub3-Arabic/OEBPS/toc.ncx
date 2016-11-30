@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="ar">
+<head>
+<meta name="dtb:uid" content="xxx"/>
+<meta name="dtb:depth" content="1"/>
+<meta name="dtb:totalPageCount" content="10"/>
+<meta name="dtb:maxPageNumber" content="10"/>
+</head>
+<docTitle>
+<text>Newzel</text>
+</docTitle>
+<navMap>
+<navPoint id="navPoint-1" playOrder="1"><navLabel><text>غطاء</text></navLabel><content src="Cover.xhtml"/></navPoint>
+<navPoint id="navPoint-2" playOrder="2"><navLabel><text>١- دور نظم الأغذية في التغذية</text></navLabel><content src="Chapter01.xhtml"/></navPoint>
+</navMap>
+</ncx>

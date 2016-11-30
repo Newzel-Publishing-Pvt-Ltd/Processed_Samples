@@ -1,0 +1,52 @@
+@charset "utf-8";
+
+@font-face {
+  font-family: "latha";
+  src: url('../fonts/latha.ttf');
+}
+@font-face {
+  font-family: "TSCU_SaiIndira";
+  src: url('../fonts/TSCU_SaiIndira.ttf');
+}
+
+
+body {
+	margin:1em;
+font-size:100%;
+font-family: "latha";
+}
+
+body {
+	-epub-hyphens:auto;
+	line-height:1.333;
+	-webkit-hyphens:auto;
+}
+
+@page {
+	margin : 0% 0% 0% 0%;
+}
+
+a {
+	text-decoration:none;
+	color: inherit;
+}
+
+.center {
+	text-align:center;
+	margin: 1em 0 1em 0;
+}
+
+h1{margin:1em 0em 2em 0em; text-indent:0em; text-align:center; }
+
+.author{margin:2em 1em 0em 0em; text-indent:0em; text-align:right; font-size:100%;}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+font-size:100%;
+margin:1em 0em 0em 0em;
+}
+table td:nth-child(1){width:50%; border:2px solid black; padding:0.3em; text-align:left; vertical-align:middle;}
+table td:nth-child(2){width:50%; border:2px solid black; padding:0.3em; text-align:left; vertical-align:middle;}
+.cell_2{font-size:120%; border:2px solid black; padding:0.3em; text-align:left; vertical-align:middle;}
+.cell_1{font-size:100%; border:2px solid black; padding:0.3em; text-align:left; vertical-align:middle;}

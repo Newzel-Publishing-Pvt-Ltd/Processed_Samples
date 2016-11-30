@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="isbn-id" xmlns:epub="http://www.idpf.org/2007/ops" xmlns:ibooks="http://apple.com/ibooks/html-extensions" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" xml:lang="en">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dc:title id="t1">Newzel</dc:title>
+<meta refines="#t1" property="title-type">main</meta>
+<meta refines="#t1" property="display-seq">1</meta>
+<dc:creator id="creator1">Mr. P. Vignesh</dc:creator>
+<meta refines="#creator1" property="role" scheme="marc:relators" id="role1">MD</meta>
+<meta refines="#creator1" property="display-seq">1</meta>
+<dc:language>en</dc:language>
+<meta property="dcterms:publisher">Newzel Publishing Private Limited</meta>
+<dc:identifier id="isbn-id">urn:isbn:xxx</dc:identifier>
+<meta refines="#isbn-id" property="identifier-type" scheme="onix:codelist5">15</meta>
+<dc:source id="src-id">urn:isbn:xxx</dc:source>
+<meta refines="#src-id" property="identifier-type" scheme="onix:codelist5">15</meta>
+<meta name="cover" content="cover-image" />
+<meta property="dcterms:modified">2016-11-01T02:00:00Z</meta>
+<dc:date>2016-11-01T02:00:00Z</dc:date>
+</metadata>
+
+<manifest>
+<item id="OUP_template" href="css/style.css" media-type="text/css" />
+<item id="navigation" href="navigation.xhtml" properties="nav" media-type="application/xhtml+xml" />
+<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+
+<item id="Body1" href="Cover.xhtml" media-type="application/xhtml+xml" />
+<item id="Body2" href="Chapter1.xhtml" media-type="application/xhtml+xml" />
+
+<item id="cover-image" properties="cover-image" href="images/cover.jpg" media-type="image/jpeg"/>
+<item id="img1" href="images/at.gif" media-type="image/gif" />
+<item id="img2" href="images/book.gif" media-type="image/gif" />
+<item id="img3" href="images/ch1.gif" media-type="image/gif" />
+<item id="img4" href="images/ch12.gif" media-type="image/gif" />
+<item id="img5" href="images/ch13.gif" media-type="image/gif" />
+<item id="img6" href="images/ch1_01.gif" media-type="image/gif" />
+<item id="img7" href="images/ch2.gif" media-type="image/gif" />
+<item id="img8" href="images/ch2_01.gif" media-type="image/gif" />
+<item id="img9" href="images/ch9.gif" media-type="image/gif" />
+<item id="img10" href="images/ch9_01.gif" media-type="image/gif" />
+<item id="img11" href="images/clock.gif" media-type="image/gif" />
+<item id="img12" href="images/Figure-5.1.gif" media-type="image/gif" />
+<item id="img13" href="images/Figure-6.1.gif" media-type="image/gif" />
+<item id="img14" href="images/Figure-8.1.gif" media-type="image/gif" />
+<item id="img15" href="images/figure11.1.gif" media-type="image/gif" />
+<item id="img16" href="images/figure11.2.gif" media-type="image/gif" />
+<item id="img17" href="images/figure11.3.gif" media-type="image/gif" />
+<item id="img18" href="images/figure11.4.gif" media-type="image/gif" />
+<item id="img19" href="images/figure11.5.gif" media-type="image/gif" />
+<item id="img20" href="images/Figure2.1.gif" media-type="image/gif" />
+<item id="img21" href="images/fm_1.gif" media-type="image/gif" />
+<item id="img22" href="images/fm_10.gif" media-type="image/gif" />
+<item id="img23" href="images/fm_11.gif" media-type="image/gif" />
+<item id="img24" href="images/fm_12.gif" media-type="image/gif" />
+<item id="img25" href="images/fm_13.gif" media-type="image/gif" />
+<item id="img26" href="images/fm_14.gif" media-type="image/gif" />
+<item id="img27" href="images/fm_15.gif" media-type="image/gif" />
+<item id="img28" href="images/fm_16.gif" media-type="image/gif" />
+<item id="img29" href="images/fm_17.gif" media-type="image/gif" />
+<item id="img30" href="images/fm_18.gif" media-type="image/gif" />
+<item id="img31" href="images/fm_19.gif" media-type="image/gif" />
+<item id="img32" href="images/fm_2.gif" media-type="image/gif" />
+<item id="img33" href="images/fm_20.gif" media-type="image/gif" />
+<item id="img34" href="images/fm_21.gif" media-type="image/gif" />
+<item id="img35" href="images/fm_22.gif" media-type="image/gif" />
+<item id="img36" href="images/fm_23.gif" media-type="image/gif" />
+<item id="img37" href="images/fm_3.gif" media-type="image/gif" />
+<item id="img38" href="images/fm_4.gif" media-type="image/gif" />
+<item id="img39" href="images/fm_5.gif" media-type="image/gif" />
+<item id="img40" href="images/fm_6.gif" media-type="image/gif" />
+<item id="img41" href="images/fm_7.gif" media-type="image/gif" />
+<item id="img42" href="images/fm_8.gif" media-type="image/gif" />
+<item id="img43" href="images/fm_9.gif" media-type="image/gif" />
+<item id="img44" href="images/idea.gif" media-type="image/gif" />
+<item id="img45" href="images/media.gif" media-type="image/gif" />
+<item id="img46" href="images/page132.gif" media-type="image/gif" />
+<item id="img47" href="images/page134.gif" media-type="image/gif" />
+<item id="img48" href="images/page155.gif" media-type="image/gif" />
+<item id="img49" href="images/page297.gif" media-type="image/gif" />
+<item id="img50" href="images/page316.gif" media-type="image/gif" />
+<item id="img51" href="images/page318.gif" media-type="image/gif" />
+<item id="img52" href="images/page332.gif" media-type="image/gif" />
+<item id="img53" href="images/page339.gif" media-type="image/gif" />
+<item id="img54" href="images/page341.gif" media-type="image/gif" />
+<item id="img55" href="images/page_110.gif" media-type="image/gif" />
+<item id="img56" href="images/page_111.gif" media-type="image/gif" />
+<item id="img57" href="images/page_130.gif" media-type="image/gif" />
+<item id="img58" href="images/page_158.gif" media-type="image/gif" />
+<item id="img59" href="images/page_176.gif" media-type="image/gif" />
+<item id="img60" href="images/page_271.gif" media-type="image/gif" />
+<item id="img61" href="images/page_293.gif" media-type="image/gif" />
+<item id="img62" href="images/page_43.gif" media-type="image/gif" />
+<item id="img63" href="images/page_47.gif" media-type="image/gif" />
+<item id="img64" href="images/page_63.gif" media-type="image/gif" />
+<item id="img65" href="images/page_65.gif" media-type="image/gif" />
+<item id="img66" href="images/page_84.gif" media-type="image/gif" />
+<item id="img67" href="images/page_89.gif" media-type="image/gif" />
+<item id="img68" href="images/par.gif" media-type="image/gif" />
+<item id="img69" href="images/pencil.gif" media-type="image/gif" />
+<item id="img70" href="images/pencil1.gif" media-type="image/gif" />
+<item id="img71" href="images/pg203.gif" media-type="image/gif" />
+<item id="img72" href="images/pg221.gif" media-type="image/gif" />
+<item id="img73" href="images/pg223.gif" media-type="image/gif" />
+<item id="img74" href="images/pg246.gif" media-type="image/gif" />
+<item id="img75" href="images/pin.gif" media-type="image/gif" />
+<item id="img76" href="images/search.gif" media-type="image/gif" />
+<item id="img77" href="images/setting.gif" media-type="image/gif" />
+<item id="img78" href="images/tick.gif" media-type="image/gif" />
+<item id="img79" href="images/sketch.gif" media-type="image/gif" />
+
+</manifest>
+<spine toc="ncx">
+<itemref idref="Body1" linear="yes" />
+<itemref idref="Body2" linear="yes" />
+</spine>
+<guide>
+<reference type="cover" title="Cover" href="Cover.xhtml" />
+</guide>
+</package>

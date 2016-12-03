@@ -1,9 +1,0 @@
-<display_options>
-    <!-- allowed values for platform "iphone", "ipad", "*" -->
-    <platform name="*">
-        <option name="fixed-layout">true</option>
-        <option name="specified-fonts">false</option>
-        <option name="open-to-spread">true</option>
-        <!--<option name="orientation-lock">landscape-only</option>-->
-    </platform>
-</display_options>
